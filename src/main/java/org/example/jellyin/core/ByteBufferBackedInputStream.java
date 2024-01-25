@@ -1,4 +1,4 @@
-package digital.dac.klaudiusz.movie;
+package org.example.jellyin.core;
 
 import jakarta.annotation.Nonnull;
 
